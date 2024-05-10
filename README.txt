@@ -2,4 +2,4 @@
 Name: Francis Rale M. Abrenica         Program & Year:  BSCS - 1           Course: Discrete Structures II
 .........................................................................................................
 
-This folder contains the Discrete Structures II Programming Assignments ( Lectures 1 - 4 )
+The "AssignmentAnswers" folder contains the Discrete Structures II Programming Assignments ( Lectures 1 - 4 )
